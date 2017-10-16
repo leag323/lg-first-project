@@ -1,0 +1,7 @@
+.student-owner{
+    border: 1px solid black;
+}
+
+.student-owner > p {
+    color: red;
+}
