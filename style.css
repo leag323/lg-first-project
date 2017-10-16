@@ -5,3 +5,11 @@
 .student-owner > p {
     color: red;
 }
+.student-contributor > p {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+}
+.student-contributor > img {
+    width: 200px;
+}
